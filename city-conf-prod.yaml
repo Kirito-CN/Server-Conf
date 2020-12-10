@@ -1,0 +1,4 @@
+server:
+  port: 9066
+project:
+  config: 这是developer-Kirito-CN的配置

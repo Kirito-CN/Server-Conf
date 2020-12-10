@@ -1,4 +1,2 @@
-server:
-  port: 9066
 project:
-  config: 这是developer-Kirito-CN的配置
+  config: 这是测试环境的配置-developer-Kirito-CN
